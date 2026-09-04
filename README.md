@@ -14,6 +14,10 @@ C# .NET 3.5 WinForms library that subclasses RichTextBox with RichEdit 4.1 (Msft
 
 Open `VaderConsulting.ExtendedRichTextBox.csproj` in Visual Studio 2013 or later (ToolsVersion 12.0). There is no `.sln` in this folder.
 
+## Requirements
+
+- Visual Studio 2013 or later, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `VaderConsulting.ExtendedRichTextBox`. Assembly title/product `VaderConsulting.ExtendedRichTextBox`; copyright `Copyright ©  2015`; company empty. Namespace `VaderConsulting`. OLE embedding wrappers in `ExtendedRichTextBox.cs` are attributed in-source to Oscar Londoño ([CodeProject MyExtRichTextBox](http://www.codeproject.com/KB/edit/MyExtRichTextBox.aspx)).
